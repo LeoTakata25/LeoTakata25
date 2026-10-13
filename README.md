@@ -1,3 +1,4 @@
+![GitHub Profile Banner](github-banner.png)
 # Leonardo Hiroshi Takata Trevisan
 
 <p align="left">
